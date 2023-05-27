@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+
+.main-section-background{
+    background-image: url("https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg");
+    border-bottom-right-radius: 370px;
+    height: 100vh;
+    background-size: cover;
+
+}
+.main-heading{
+    text-transform: capitalize;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: white;
+
+}
+.about-us-button{
+    border-radius: 10px;
+    color: white;
+    width: 130px;
+    height: 45px;
+    margin-right: 10px;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.main-section-paragraph{
+    color: white;
+    font-family: "Roboto";
+    text-transform: capitalize;
+}
+span {
+    color: orange;
+}
+.about-section{
+    background-color:#191919 ;
+   
+
+}
+.about-section-image{
+    margin: 10px;
+    border-radius: 25px;
+    height: auto;
+
+}
+.about-section-intro{
+    margin-top: 50px;
+    padding: 10px;
+}
+.about-section-button{
+    background-color: #f9004d;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 13px 30px;
+    border: transparent;
+
+
+}
+
+.skills-section {
+    background-color: #191919;
+}
+
+.skills-section-sub-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.skills-card-image {
+    width: 64px;
+    height: 64px;
+}
+
+.skills-card {
+    background-color:#ffff;
+    border-radius: 8px;
+    padding: 10px;
+    
+}
+
+.skills-card-title {
+    color:black;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+   
+}
+.main {
+    background-color: #3e4c59;
+    padding: 35px;
+}
+
+.main-heading {
+    color:  white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.second-head {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.web {
+    background-color: #323f4b;
+    border-radius: 10px;
+
+
+}
+
+.image {
+    width: 100%;
+}
+.main-button{
+    border-radius: 25px;
+    float: inherit;
+    background-color: #157ED5;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-weight: bold;
+    text-transform: capitalize ;
+}
+.project-section{
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 50px;
+   
+}
+.project-section-sub-heading{
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    
+
+}
+.project-card-image {
+    width: 64px;
+    height: 64px;
+    
+}
+#hb{
+    font-size: 15px;
+}
+.project-custom-font{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: white;
+}
+.contact-section{
+    background-color: black;
+}
+.contact-section-heading{
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+    padding-top: 50px;
+
+}
+.contact-button{
+    border-color: #f9004d;
+    color: #f9004d;
+    background-color: transparent;
+    border-radius: 2px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.contact-button:hover{
+    background-color: #f9004d;
+    color: white;
+}
+.icons{
+    color: #f9004d;
+    font-size: 20px;
+}
+.contact-para{
+    color: white;
+    
+}
+
+
+
+
+.footerName {
+    background-color: #323f4b;
+    border-radius: 4px;
+    color: #ffffff;
+    margin-bottom: 15px;
+    font-family: "san-serif";
+}
+.line{
+     background-color: #5a7184;
+     width: 100%;
+     
+}
+
+
+
+
+
+
+
+
+
+	
